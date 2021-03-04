@@ -15,8 +15,8 @@ const options = {
   host: 'localhost',
   port: 3306,
   user: 'root',
-  password: '111111',
-  database: 'to_do_app',
+  password: 'warriors17',
+  database: 'todo',
   charset: 'utf8_bin',
   schema: {
     tableName: 'sessions',

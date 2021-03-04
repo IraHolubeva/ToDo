@@ -13,8 +13,8 @@ class SQL_Handler {
             this._connection = mysql.createConnection({
                 host: "localhost",
                 user: "root",
-                database: "to_do_app",
-                password: "111111"
+                database: "todo",
+                password: "warriors17"
             });
         }
         return this._connection;
